@@ -1,4 +1,4 @@
-# 👷‍♂️ BuilderClan  
+# 💻 BuilderClan  
 Welcome to **BuilderClan**, the tech community where innovation meets collaboration! 🚀  
 
 ## 🌟 About Us  
@@ -23,7 +23,6 @@ At BuilderClan, we believe in building solutions that matter. Whether you're a c
 
 ## 📊 Our Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=builder-clan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=builder-clan&layout=compact&theme=radical)  
 
 ---
 
